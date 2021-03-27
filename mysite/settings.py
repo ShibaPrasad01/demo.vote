@@ -25,7 +25,7 @@ SECRET_KEY = 'wu1x2f31p40byt%2!8_rzof1-67bmpe!-7*0rva0gpu9dk@=+c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://shibaprasad01.github.io/demo.vote/']
 
 
 # Application definition
